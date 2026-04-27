@@ -28,8 +28,6 @@
 
 ## 🛠 Tech Stack
 
-> *Add the technologies you're learning or know — some suggestions below*
-
 **Languages**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -51,11 +49,9 @@
 
 ## 📌 Featured Projects
 
-> *Pin your best repos on GitHub and list them here*
-
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔧 *Coming soon* | Add your projects here | — |
+| 🔧 *Coming soon*|
 
 ---
 
@@ -71,11 +67,9 @@
 
 ## 📫 Let's Connect
 
-> *Add your social links when ready*
-
-- 💼 LinkedIn: `[Add your LinkedIn URL]`
-- 📧 Email: `[Add your email]`
-- 🐦 Twitter/X: `[Add your handle]`
+- 💼 LinkedIn: `soon`
+- 📧 Email: `soon`
+- 🐦 Twitter/X: `https://x.com/waqtfisthis`
 
 ---
 
